@@ -1,0 +1,25 @@
+.container1{
+    width: 100%;
+    background:white;
+    position: fixed;
+    padding: 10px;
+    top: 0px;
+    z-index: 1;
+}
+.Image{
+    display: inline-block;
+    /* position: sticky;  */
+    margin-left: 1200px;
+   
+    
+}
+.container2{
+    position: relative;
+}
+.container3 {
+    position:absolute;
+    color:white;
+    top: 400px;
+    left: 600px;
+
+}
